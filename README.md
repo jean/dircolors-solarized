@@ -171,7 +171,7 @@ To use any of the database files, run this:
     eval `dircolors /path/to/dircolorsdb`
 
 To activate the theme for all future shell sessions, copy or link that file to
-`~/.dir_colors`, and include the above command in your `~/.profile` (for bash)
+`~/.dircolors`, and include the above command in your `~/.profile` (for bash)
 or `~/.zshrc` (for zsh).
 
 For Ubuntu 14.04 it is sufficient to copy or link database file to `~/.dircolors`.
